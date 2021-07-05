@@ -254,7 +254,7 @@ margin-bottom: 40px;
 /* start blog page   start blog page start blog page start blog pagestart blog page start blog page start blog page start blog page*/
 .blog-intro{
     padding: 100px 0px;
-    background-image: url('../imge/blog/blogbackk.jpg');
+    background-image: url('blogbackk.jpg');
     background-size: cover;
     
    
