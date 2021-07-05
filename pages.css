@@ -325,6 +325,16 @@ margin-bottom: 40px;
    
     background-color: rgb(247, 215, 175);
 }
+@media  (max-width: 576px) {
+
+    .inputt h2{
+      
+        font-size: 17px;
+
+        
+        }
+ }
+
 .inputt .forms{
     display:inline-block ;
 }
