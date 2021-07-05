@@ -2,7 +2,7 @@
 /* START ABOUT PAGE ABOUT PAGE ABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGE*/
 .about-uss{
     padding: 100PX 0;
-    background-image: url('../imge/about/aboutback.jpg');
+    background-image: url('aboutback.jpg');
     background-size: cover;
     width: 100%;
 color: white;
