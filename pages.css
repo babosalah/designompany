@@ -343,7 +343,7 @@ margin-right: 0;
 
     .inputt .forms input{
       
-        padding: 10px 30px;
+        padding: 10px 10px;
 
         
         }
@@ -361,6 +361,16 @@ margin-right: 0;
    color: white;
    margin-bottom: 80px;
    }
+
+@media  (max-width: 576px) {
+
+    .inputt .forms button{
+      
+        padding: 10px 10px;
+
+        
+        }
+ }
    .inputt .card{
        border: none;
    }
