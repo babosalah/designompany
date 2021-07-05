@@ -91,11 +91,11 @@ left: 100px;
 line-height: 1.5;
 
 }
-@media  (max-width: 767.98px) {
+@media  (max-width: 576px) {
 
     #main-slider .carousel-inner h1{
        
-        font-size: 20px;
+        font-size: 30px;
         max-width: 900px;
         left: auto;
         line-height: 1.5;
