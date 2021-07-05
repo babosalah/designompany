@@ -1,0 +1,389 @@
+/************************************/
+/* START ABOUT PAGE ABOUT PAGE ABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGE*/
+.about-uss{
+    padding: 100PX 0;
+    background-image: url('../imge/about/aboutback.jpg');
+    background-size: cover;
+    width: 100%;
+color: white;
+}
+.about-uss span{
+    border-bottom: 1px solid white;
+    text-transform: uppercase;
+    
+}
+.about-uss h2{
+    margin-top: 20px;
+    font-weight: bolder;
+
+}
+
+.about-uss p{
+text-align: center;
+  margin-left: 10%;
+  margin-right: 10%; 
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+ 
+}
+@media  (max-width: 576px) {
+
+    .about-uss p{
+       
+
+        text-align: center;
+        margin-left:2%;
+        margin-right: 2%;
+        
+        }
+ }
+
+.about-uss button{
+    margin-top: 30px;
+    padding: 10px 35px;
+    background: white;
+    border: none;
+    border-radius: 20px;
+    color: blue;
+    font-weight: bold;
+}
+/************************************************/
+
+.our-team{
+    background-color:#ccc;
+    padding: 30px 0;
+}
+.our-team .media{
+    margin-bottom: 10px;
+    width: 98%;
+}
+/************************************************/
+.about-feature{
+   
+    padding: 20px 0;
+  ;
+}
+.about-feature h1{
+color:black;
+text-transform: capitalize;
+margin-bottom: 40px;
+}
+.about-feature .feat{
+    margin-bottom: 20px;
+    border-right: 2PX solid gray;
+}
+.about-feature .feat:last-child{
+   
+    border-right: none
+}
+@media (max-width: 992px){
+    .about-feature .feat{
+       border: none;  
+    }  
+}
+.about-feature .featuress .icon{
+    color: #8e00cf;
+    margin-bottom: 20px;
+}
+.about-feature .featuress h6{
+    letter-spacing: 2px;
+    color:black;
+}
+.about-feature .featuress p{
+  
+    color:black;
+}
+/*************************************************************/
+/* start  why choose  us section*/
+.our-aim  img{
+    max-width: 100%;
+}
+.our-aim  .info {
+    padding: 0;
+}
+.our-aim  .choose-info{
+    
+    background-color: #DDAF94;
+    padding-top: 90px;
+    padding-bottom: 5px;
+    text-align: left;
+   
+}
+
+.our-aim  .choose-info  h2{
+    margin-left: 30px;
+    font-weight: bolder;
+    color: #fdf8f5;  
+}
+.our-aim  .choose-info button{
+    margin-top: 30px;
+    margin-left: 30px; 
+    font-weight: 450px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 0;
+    border: none;
+    background-color: #266150;
+    padding: 10px 20px;
+} 
+/*//******************************/
+
+
+/* end  our aim*/
+.parteners{
+    padding: 100px 0px;
+}
+.parteners .par{
+    background-color: rgb(175, 174, 174);
+    width: 10%;
+}
+
+.parteners img{
+    margin-bottom: 15px;
+    
+}
+/* ED ABOUT PAGE ABOUT PAGE ABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGEABOUT PAGE*/
+
+/**********************************************************************************************************************/
+/* START WORK PAGE START WORK PAGESTART WORK PAGESTART WORK PAGESTART WORK PAGESTART WORK PAGESTART WORK PAGE*/
+/* start  environment section*/
+.environment{
+    padding: 60PX 0;
+}
+.environment  img{
+    max-width: 100%;
+}
+.environment .info {
+    padding: 0;
+}
+.environment .environment-info{
+    
+    background-color:whtesmoke;
+    padding-top: 120px;
+    padding-bottom: 5px;
+    text-align: left;
+   
+}
+
+.environment .environment-info  h2{
+    margin-left: 30px;
+    font-weight: bolder;
+    color: #38011e;  
+}
+.environment .environment-info  p{
+    margin-left: 30px;
+    
+    color: #885d4c;  
+}
+.environment .environment-info button{
+    margin-top: 30px;
+    margin-left: 30px; 
+    font-weight: 450px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius: 0;
+    border: none;
+    background-color: #38011e;
+    padding: 10px 20px;
+} 
+/*//******************************/
+
+
+/* end  environment section*/
+
+/*<!--start our work process section-->*/
+.work-process{
+    padding: 60px 0;
+    background-color: #7395ae;
+}
+.work-process h2{
+    color:#38011e; 
+    font-weight: bold;
+}
+.work-process p{
+   margin-left: 15%;
+   margin-right: 15%;
+   margin-bottom: 40px;
+  
+}
+.work-process .work-process-info{
+    margin-bottom: 20px;
+}
+.work-process .icon{
+    margin-bottom: 10px;
+}
+.work-process h5{
+    color: #38011e; 
+    font-weight: bold;
+}
+/*<!-- start looking for section-->*/
+.looking-for{
+    padding: 80px 0;
+    background-color: #9e908b; 
+    color: white;
+}
+.looking-for .looking-for-intro h2{
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.looking-for .looking-for-intro p{
+    margin-bottom: 40px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.looking-for .looking{
+   color: black;
+   margin-bottom: 15px;
+   
+}
+.looking-for .looking .card-body{
+    box-shadow: 10px 10px 5px #38011e;
+    
+ }
+.looking-for .looking h5{
+    font-weight: bold;
+}
+
+/*<!-- end looking for section-->*/
+
+/*<!--END our work process section-->*/
+/* end WORK PAGE START WORK PAGESTART WORK PAGESTART WORK PAGESTART WORK PAGESTART WORK PAGESTART WORK PAGE*/
+/************************************************************************************************************/
+/* start blog page   start blog page start blog page start blog pagestart blog page start blog page start blog page start blog page*/
+.blog-intro{
+    padding: 100px 0px;
+    background-image: url('../imge/blog/blogbackk.jpg');
+    background-size: cover;
+    
+   
+    
+ 
+}
+.blog-intro h2{
+    color: #ffb903;
+    font-weight: bolder;
+}
+
+@media  (max-width: 576px) {
+
+    .blog-intro h2{
+       font-size: 20px;
+        font-weight:bold;
+            color: #ffb903;
+
+
+        
+        }
+ }
+
+
+
+
+
+    .latest-blog{
+        padding: 60px 0;
+    }
+    @media(max-width:768px){
+
+  
+    .latest-blog .blog-info{
+        text-align: center;
+        margin-bottom: 30px;
+
+    }}
+   
+    
+
+    .latest-blog h2{
+        font-weight: bold;
+        margin-bottom: 30px;
+        color:#ffb903
+    }
+    .latest-blog p{
+        margin-left: 15%;
+        margin-right: 15%;
+        width: 70%;
+    }
+    .latest-blog h5{
+        color:#e26455
+
+    }
+ 
+    .latest-blog button{
+        margin-top: 20px;
+        background-color:#e26455;
+        
+    }
+
+
+/* end blog page   start blog page start blog page start blog pagestart blog page start blog page start blog page start blog page*/
+/************************************************************************************************************/
+.inputt{
+    padding: 120px 0;
+   
+    background-color: rgb(247, 215, 175);
+}
+.inputt .forms{
+    display:inline-block ;
+}
+.inputt .forms input{
+ border: none;
+padding: 10px 100px;
+border-top-left-radius: 20px;   
+border-bottom-left-radius: 20px;   
+margin-right: 0;
+}
+.inputt .forms input::placeholder{
+    justify-items: start;
+
+}
+@media  (max-width: 576px) {
+
+    .inputt .forms input{
+      
+        padding: 10px 40px;
+
+        
+        }
+ }
+
+.inputt .forms button{
+    border: none;
+   padding: 10px 20px;
+   border-top-right-radius: 20px;   
+   border-bottom-right-radius: 20px;   
+   margin-left: 0;
+   text-transform: uppercase;
+   font-weight: bold;
+   background-color: #ffcc4b;
+   color: white;
+   margin-bottom: 80px;
+   }
+   .inputt .card{
+       border: none;
+   }
+   .inputt .card-info{
+       padding: 20px 0;
+       margin-bottom: 20px;
+      box-shadow: #1f2833;
+      border: none;
+      box-shadow: 10px 10px 5px gray;  
+     }
+
+     .accordion {
+         padding: 80px 0;
+     }
+     .accordion h2{
+       color:#ffcc4b;
+         text-align: center;
+         margin-bottom: 50px;
+         font-weight: bold;
+     }
+     .accordion .card {
+        border: none;
+      
+
+    }
+     
