@@ -64,11 +64,17 @@ text-align: center;
     padding: 20px 0;
   ;
 }
-.about-feature h1{
+.about-feature h2{
 color:black;
 text-transform: capitalize;
 margin-bottom: 40px;
 }
+@media (max-width: 576px){
+    .about-feature h2{
+        font-size: 30px;
+    }  
+}
+
 .about-feature .feat{
     margin-bottom: 20px;
     border-right: 2PX solid gray;
