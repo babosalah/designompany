@@ -239,6 +239,16 @@ margin-bottom: 40px;
     margin-bottom: 20px;
     font-weight: bold;
 }
+
+@media  (max-width: 576px) {
+
+    .looking-for .looking-for-intro h2{
+      
+       font-size: 18px;
+
+        
+        }
+ }
 .looking-for .looking-for-intro p{
     margin-bottom: 40px;
     width: 70%;
