@@ -401,6 +401,16 @@ margin-right: 0;
          margin-bottom: 50px;
          font-weight: bold;
      }
+@media  (max-width: 576px) {
+
+        .accordion h2{
+          
+           font-size: 25px;
+    
+            
+            }
+     }
+
      .accordion .card {
         border: none;
       
