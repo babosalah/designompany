@@ -201,6 +201,18 @@ margin-bottom: 40px;
     color:#38011e; 
     font-weight: bold;
 }
+@media  (max-width: 576px) {
+
+    .work-process h2{
+      
+       font-size: 20px;
+
+        
+        }
+ }
+
+
+
 .work-process p{
    margin-left: 15%;
    margin-right: 15%;
